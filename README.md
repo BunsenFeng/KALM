@@ -6,10 +6,11 @@ This is the official repo for [KALM: Knowledge-Aware Integration of Local, Docum
 
 `process_graph.py`, `process_text.py`, and `process_knowledge.py` are data preprocessing codes for the three aspects.
 
-
+`graph_gnn_layer.py` implements the knowledge-guided message passing GNN, `model.py` defines the modular components of KALM, `dataloader.py`, `trainer.py`, and `utils.py` are helper functions, `main.py` is the main executable file.
 
 ### Data link (raw and preprocessed)
 
+preprocessed data: [link](https://drive.google.com/file/d/1Yy_blTM1UtgamBH-hgJqVix8jISeRpdQ/view?usp=sharing)
 
 ### Citation
 If you find this repo useful, please cite our paper:
