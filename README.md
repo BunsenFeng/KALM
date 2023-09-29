@@ -4,6 +4,10 @@ This is the official repo for [KALM: Knowledge-Aware Integration of Local, Docum
 
 ### Content
 
+`process_graph.py`, `process_text.py`, and `process_knowledge.py` are data preprocessing codes for the three aspects.
+
+
+
 ### Data link (raw and preprocessed)
 
 
