@@ -1,6 +1,6 @@
 ## PoliLean Reposiotry
 
-This is the official repo for [KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding]([https://arxiv.org/abs/2305.08283](https://arxiv.org/abs/2210.04105)) @ ACL 2023.
+This is the official repo for [KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding](https://arxiv.org/abs/2210.04105) @ ACL 2023.
 
 ### Content
 
